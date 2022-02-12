@@ -1,5 +1,3 @@
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png"/>
-
 <h1 align="center">Hello World! 👋</h1>
 
 
