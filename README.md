@@ -4,7 +4,7 @@
 
 ##           <h1 align="center">                   I'm VIJAY RAJPUT </h1>
 
-<h2 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%23F7AE71&size=25&duration=4000&center=true&vCenter=true&width=500&height=60&lines=Full+Stack+Web+Developer;Techie)](https://git.io/typing-svg) </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=%23F7AE71&size=25&duration=4000&center=true&width=500&height=60&lines=Full+Stack+Web+Developer;Techie)](https://git.io/typing-svg)
 
 A Full-stack Web developer from Indore,India. I love building applications & discussing new product ideas. Reach out to me anywhere if you'd like to talk ✌️
 talk about # *React* # *Redux*, # *Nodejs*, # *Javascript*, # *Data Structure & algorithm* 
